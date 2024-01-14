@@ -1,5 +1,3 @@
-Certainly! Here's a brief description for your GitHub repository named "NuclearFuelRodTemperatureProfile":
-
 NuclearFuelRodTemperatureProfile
 
 This repository contains a Python program that calculates and visualizes the temperature distribution within a nuclear fuel rod. The program models the temperature profile across different sections of the fuel rod, including the fuel, gap, and clad regions. The calculations are based on specified parameters such as fuel rod dimensions, material properties, and volumetric heat generation.
